@@ -3,16 +3,17 @@ const Home = () => {
   return (
     <section className='w-full flex-center flex-col'>
         <h1 className='head_text text-center'>
-            Discover and share
+            Omishtu-Joy
             <br className='maxx-md:hidden' />
-            <span className='orange_gradient text-center'>
-                with Prompt AI
+            <span className='green_gradient text-center'>
+                AgTech Engineering
             </span>
         </h1>
 
         <p className='desc text-center'>
-            Prompt AI is a tool that you can dicover your prompt as well as its description and 
-            give additional information about them 
+        Omishtu-Joy is the best contemporary technology experience equipped diverse class tech staffs technology valley
+
+
         </p>
         <Feed />
     </section>

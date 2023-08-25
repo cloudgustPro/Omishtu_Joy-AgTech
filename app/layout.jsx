@@ -4,7 +4,7 @@ import Nav from '@components/Nav'
 import Provider from '@components/Provider'
 
 export const metadata = {
-    title: "Prompt",
+    title: "Omishtu-Joy AgTech",
     description: "connect with the Prompt AI to get updated information"
 }
 
